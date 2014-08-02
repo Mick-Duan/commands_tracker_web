@@ -1,0 +1,25 @@
+$def with (page=None, title=None,form_date=None)
+<html><head>
+<title>
+$if title:  $title\
+</title>
+<style type="text/css">
+<!--
+.head_name {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 24px;
+	color: #000;
+	text-align: justify;
+}
+-->
+</style>
+</head>
+<body>
+<h1><a href="/" class="head_name">WanDouJia Command Track</a>
+ </h1>
+<p align="right"> Power By <a href="http://www.chinanetcloud.com/">ChinaNetCloud</a><hr>
+<form action="/search" method="get">
+$:form_date.render()
+<input type="submit" value="Search">
+$:page
+</body></html>

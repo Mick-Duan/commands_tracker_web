@@ -1,0 +1,21 @@
+$def with (server_name):
+<select class="score" name="score"
+    onChange="document.theform.action = '/rate'; document.theform.submit();">
+    <option value="">Date</option>
+    <option value="" disabled="">---------------------------------------------------</option>
+    
+    <option value="5">2013-06-12&nbsp;&nbsp;&nbsp;&nbsp;</option> 
+    <option value="4">2013-06-11&nbsp;&nbsp;&nbsp;&nbsp;</option> 
+    <option value="3">2013-06-10&nbsp;&nbsp;&nbsp;&nbsp;</option> 
+    <option value="2">2013-06-09&nbsp;&nbsp;&nbsp;&nbsp;</option> 
+    <option value="1">2013-06-08&nbsp;&nbsp;&nbsp;&nbsp;</option> 
+    
+</select>
+
+<select class="score" name="score"
+    onChange="document.theform.action = '/rate'; document.theform.submit();">
+    <option value="">Server Name</option>
+    <option value="" disabled="">---------------------------------------------------</option>
+    
+    <option value="">$server_name &nbsp;&nbsp;&nbsp;&nbsp;</option> 
+</select>

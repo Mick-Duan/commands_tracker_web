@@ -1,0 +1,48 @@
+$def with(form1,form2,page)
+
+<html>
+<title>
+ChinaNetCloud Command Track
+</title>
+<style type="text/css">
+<!--
+.head_name {
+        font-family: Tahoma, Geneva, sans-serif;
+        font-size: 24px;
+        color: #000;
+        text-align: justify;
+}
+-->
+</style>
+<td nowrap="nowrap"><h1><a href="/" class="head_name">WanDouJia Monitor Page</a></h1></td>
+<td nowrap="nowrap"><p align="right"> Powered By <a href="http://www.chinanetcloud.com/">ChinaNetCloud</a><hr></td>
+<table>
+<tr>
+<td>
+<form action="/search" method="GET">
+<td nowrap="nowrap">$:form1.render()</td>
+<td nowrap="nowrap">$:form2.render()</td>
+<td nowrap="nowrap"><input type="submit" value="CMD Search"></td>
+</form>
+</td>
+
+<td>
+&nbsp;<form action="/nginxupstream" method="get">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<select name="nginx_name">
+    <option value="">Nginx Upstream Monitor</option>
+    <option value="" disabled="">-------------------------------</option>
+    <option value="app53.hy01">srv-wdj-hy-app53&nbsp;&nbsp;&nbsp;&nbsp;</option>
+</select>
+<input type="submit" value="GO">
+</form>
+
+</td>
+</tr>
+
+</table>
+
+
+<td>&nbsp;&nbsp;Status Page Links:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://211.152.116.18:10443/nc-haproxy"  target="_blank">DB_Haproxy_Page</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://211.152.116.18:11443/nc-haproxy" target="_blank" >Interna Web_Haproxy_Page</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; LVS Page &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://211.152.116.18/monitor-check" target="_blank">Monitor Check Page</a></td>
+
+$:page
+</html>

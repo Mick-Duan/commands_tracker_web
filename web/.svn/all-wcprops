@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/customer/wandoujia/!svn/ver/3/trunk/cmd-webpy/web
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/customer/wandoujia/!svn/ver/3/trunk/cmd-webpy/web/__init__.py
+END
+debugerror.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/customer/wandoujia/!svn/ver/3/trunk/cmd-webpy/web/debugerror.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/customer/wandoujia/!svn/ver/3/trunk/cmd-webpy/web/utils.py
+END
+application.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/customer/wandoujia/!svn/ver/3/trunk/cmd-webpy/web/application.py
+END
+form.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/customer/wandoujia/!svn/ver/3/trunk/cmd-webpy/web/form.py
+END
+httpserver.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/customer/wandoujia/!svn/ver/3/trunk/cmd-webpy/web/httpserver.py
+END
+webapi.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/customer/wandoujia/!svn/ver/3/trunk/cmd-webpy/web/webapi.py
+END
+wsgi.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/customer/wandoujia/!svn/ver/3/trunk/cmd-webpy/web/wsgi.py
+END
+template.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/customer/wandoujia/!svn/ver/3/trunk/cmd-webpy/web/template.py
+END
+webopenid.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/customer/wandoujia/!svn/ver/3/trunk/cmd-webpy/web/webopenid.py
+END
+http.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/customer/wandoujia/!svn/ver/3/trunk/cmd-webpy/web/http.py
+END
+test.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/customer/wandoujia/!svn/ver/3/trunk/cmd-webpy/web/test.py
+END
+browser.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/customer/wandoujia/!svn/ver/3/trunk/cmd-webpy/web/browser.py
+END
+session.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/customer/wandoujia/!svn/ver/3/trunk/cmd-webpy/web/session.py
+END
+db.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/customer/wandoujia/!svn/ver/3/trunk/cmd-webpy/web/db.py
+END
+python23.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/customer/wandoujia/!svn/ver/3/trunk/cmd-webpy/web/python23.py
+END
+net.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/customer/wandoujia/!svn/ver/3/trunk/cmd-webpy/web/net.py
+END

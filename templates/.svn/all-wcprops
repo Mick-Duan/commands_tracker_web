@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/customer/wandoujia/!svn/ver/3/trunk/cmd-webpy/templates
+END
+zabbixcheck.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/customer/wandoujia/!svn/ver/3/trunk/cmd-webpy/templates/zabbixcheck.html
+END
+not_monitor_list.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/customer/wandoujia/!svn/ver/3/trunk/cmd-webpy/templates/not_monitor_list.txt
+END
+all_process.list
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/customer/wandoujia/!svn/ver/3/trunk/cmd-webpy/templates/all_process.list
+END
+test.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/customer/wandoujia/!svn/ver/3/trunk/cmd-webpy/templates/test.html
+END
+cmd_track.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/customer/wandoujia/!svn/ver/3/trunk/cmd-webpy/templates/cmd_track.html
+END
+bases.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/customer/wandoujia/!svn/ver/3/trunk/cmd-webpy/templates/bases.html
+END
+item.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/customer/wandoujia/!svn/ver/3/trunk/cmd-webpy/templates/item.html
+END
+not_monitor_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/customer/wandoujia/!svn/ver/3/trunk/cmd-webpy/templates/not_monitor_list.html
+END
+testform.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/customer/wandoujia/!svn/ver/3/trunk/cmd-webpy/templates/testform.html
+END
+not_monitor_server_list.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/customer/wandoujia/!svn/ver/3/trunk/cmd-webpy/templates/not_monitor_server_list.txt
+END
+nginx_upstream.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/customer/wandoujia/!svn/ver/3/trunk/cmd-webpy/templates/nginx_upstream.html
+END
+date.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/customer/wandoujia/!svn/ver/3/trunk/cmd-webpy/templates/date.sql
+END
+naming.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/customer/wandoujia/!svn/ver/3/trunk/cmd-webpy/templates/naming.html
+END
+listing.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/customer/wandoujia/!svn/ver/3/trunk/cmd-webpy/templates/listing.html
+END
+base.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/customer/wandoujia/!svn/ver/3/trunk/cmd-webpy/templates/base.html
+END

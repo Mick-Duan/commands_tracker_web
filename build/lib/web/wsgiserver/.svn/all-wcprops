@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/customer/wandoujia/!svn/ver/3/trunk/cmd-webpy/build/lib/web/wsgiserver
+END
+ssl_pyopenssl.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/customer/wandoujia/!svn/ver/3/trunk/cmd-webpy/build/lib/web/wsgiserver/ssl_pyopenssl.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/customer/wandoujia/!svn/ver/3/trunk/cmd-webpy/build/lib/web/wsgiserver/__init__.py
+END
+ssl_builtin.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/customer/wandoujia/!svn/ver/3/trunk/cmd-webpy/build/lib/web/wsgiserver/ssl_builtin.py
+END

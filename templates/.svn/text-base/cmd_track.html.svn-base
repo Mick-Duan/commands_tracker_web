@@ -1,0 +1,7 @@
+$def with (date, name, file)
+<pre>Date:$date   Server Name:$name </pre>
+<fieldset>
+<pre>
+$file
+</pre>
+</fieldset>

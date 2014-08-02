@@ -1,0 +1,14 @@
+DATE: 2013-07-03 11:39:30
+=================↖(^ω^)↗=================↖(^ω^)↗=================↖(^ω^)↗================= 
+Server Name                  Services did not monitor 
+srv-wandoujia-node48-app:    [ java ] didn't monitor 
+srv-wandoujia-hadoop-node4:    [ java ] didn't monitor 
+srv-wdj-hy-app56:    [ php-fpm ] didn't monitor 
+srv-wdj-hy-app3:    [ java ] didn't monitor 
+srv-wdj-hy-app53:    [ php-fpm ] didn't monitor 
+srv-wdj-hy-app10:    [ java ] didn't monitor 
+srv-wdj-hy-app12:    [ nginx ] did't monitor 
+srv-wdj-hy-app12:    [ php-fpm ] didn't monitor 
+srv-wdj-hy-app15:    [ nginx ] did't monitor 
+srv-wdj-hy-app15:    [ php-fpm ] didn't monitor 
+srv-wdj-hy-app52:    [ java ] didn't monitor 

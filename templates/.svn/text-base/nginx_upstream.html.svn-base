@@ -1,0 +1,7 @@
+$def with (name,file)
+<br>
+<br>
+&nbsp;&nbsp;Server Name:&nbsp;&nbsp;$name
+<fieldset>
+$:file
+</fieldset>
